@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+'''
+presentation = {
+    'FullName' : 'Nicolas puerta',
+    'age' : 18,
+    'languages' : [ 'python', 'HTML', 'CSS', 'JavaScript', 'SQL' ],
+    'Tools' : [ 'git', 'django', 'fastapi', 'linux' ]
+}
+'''
+
 <!--
 **NicolasPuerta/Nicolaspuerta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
