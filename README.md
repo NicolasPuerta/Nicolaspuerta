@@ -9,7 +9,7 @@ presentation = {
 }
 ```
 ---
-<div aling="center">
+<div id="header" align="center">
     <p>
         I'm nicolas, I'm software develoment student from medellin colombia. 
     </p>
