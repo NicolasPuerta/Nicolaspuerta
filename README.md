@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Nicolas👋
 
 ```
 presentation = {
@@ -8,6 +8,15 @@ presentation = {
     'Tools' : [ 'git', 'django', 'fastapi', 'linux' ]
 }
 ```
+---
+<div aling=center>
+    <p>
+        I'm nicolas, I'm software develoment student from medellin colombia. 
+    </p>
+    <p>
+        I like a lot of python, is my favorite programming languaje
+    </p>
+</div>
 
 <!--
 **NicolasPuerta/Nicolaspuerta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
