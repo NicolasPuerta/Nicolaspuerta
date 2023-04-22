@@ -11,7 +11,7 @@ presentation = {
 ---
 <div id="header" align="center">
     <p>
-        I'm nicolas, I'm software develoment student from medellin colombia. 
+        I'm nicolas, I'm software developer student from medellin colombia. 
     </p>
     <p>
         I like a lot of python, is my favorite programming languaje
